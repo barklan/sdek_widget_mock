@@ -1,0 +1,1 @@
+# sdek_widget_mock
